@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Kotlin_1</string>
+    <string name="app_name">Первое приложение на Котлин</string>
+    <string name="_0">Приветствую, тебя, Путник!</string>
+    <string name="text_button">ЖМИ!</string>
 </resources>
