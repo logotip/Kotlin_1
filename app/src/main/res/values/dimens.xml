@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_title_margin_top">50dp</dimen>
+    <dimen name="margin_15_dp">15dp</dimen>
+    <dimen name="movie_text">40sp</dimen>
+    <dimen name="rank_type">25sp</dimen>
+</resources>
